@@ -1,0 +1,23 @@
+# Compiled binary files and build artifacts
+matrix_benchmark
+
+# IDE/Editor-specific files
+.vscode/
+
+# Generated files
+deformable_attention_operation/
+
+# Eigen library build directory (if applicable)
+eigen/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging output
+*.log
+*.out
